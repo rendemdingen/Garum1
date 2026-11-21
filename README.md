@@ -4,6 +4,8 @@ A bot that plays **Roman chess**. It has its own rules engine, notation and an a
 
 **Play against it in your browser: [chess.rendemdingen.com/roman/](https://chess.rendemdingen.com/roman/)**
 
+On the website Garum 1 runs in your browser. It can also show an evaluation bar next to the board: its score for the position, in pawns, or `M3` for a forced mate in 3. The bar works in games against the bot and in two-player games on one screen, not in online games. Switch it on or off with the "Evaluation bar" checkbox.
+
 ## Pieces
 
 Each Roman piece takes the place of a normal chess piece.
